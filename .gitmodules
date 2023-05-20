@@ -1,0 +1,3 @@
+[submodule "electronics/robotont-electronics-mainboard"]
+	path = electronics/robotont-electronics-mainboard
+	url = https://github.com/robotont/robotont-electronics-mainboard.git
